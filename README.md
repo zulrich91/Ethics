@@ -13,3 +13,4 @@ The repository contains a number of interesting resources on ethics in general, 
 [Harvard Magazine: AI Limitations](https://harvardmagazine.com/2019/01/artificial-intelligence-limitations)
 
 [Youtube: The ethics of artificial intelligence](https://www.youtube.com/watch?v=uA1ihJMe4Us&list=LL6VQng8-OV_IlVtDYEns5iw&index=10)
+[Stanford edu: Epistemology What to know](https://plato.stanford.edu/entries/epistemology/#WhatKnow)
